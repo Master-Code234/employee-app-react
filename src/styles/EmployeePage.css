@@ -1,0 +1,38 @@
+.employee-page {
+  flex: 1;
+  margin: 1rem;
+  border: 2px solid black;
+  text-align: center;
+  justify-content: center;
+}
+
+.employee-pic {
+  display: flex;
+  margin: 1rem auto;
+  width: 42rem;
+  height: 19rem;
+  border: 2px solid rgba(120, 120, 120, 0.642);
+  padding: 1rem;
+}
+
+.employee-info {
+  display: flex;
+  flex-direction: column;
+  margin-top: 2rem;
+}
+
+.contact-info-item {
+  text-align: left;
+  padding: 0.4rem;
+  border: 2px solid rgba(120, 120, 120, 0.642);
+  color: #000000;
+}
+
+.contact-info-container {
+  display: flex;
+  margin: auto;
+  flex-direction: column;
+  min-width: 10rem;
+  max-width: 100rem;
+  padding: 1rem;
+}

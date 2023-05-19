@@ -1,0 +1,27 @@
+.homepage {
+  flex: 1;
+  margin: 1rem;
+ border: 2px solid black;
+}
+
+.homepage-header, .employee-header {
+  text-align: center;
+  background-color: #2b4162;
+  color: #fff;
+  padding: 1rem;
+
+}
+
+.employee-List {
+    padding: 1rem;
+  }
+
+.employee-list-item {
+    padding: 1rem;
+    margin: 3px;
+    background-color: gray;
+    border: 2px solid black;
+    color: #fff;
+  }
+
+
